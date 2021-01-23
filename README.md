@@ -2,7 +2,7 @@
 
 <h4>spotify</h4>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vzzjvtb8yhmqy960dvzktlgz8&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+[![spotify](https://spotify-github-profile.vercel.app/api/view?uid=vzzjvtb8yhmqy960dvzktlgz8&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 ![profile](https://komarev.com/ghpvc/?username=obfuscating&style=flat-square&color=green)
 
