@@ -4,6 +4,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vzzjvtb8yhmqy960dvzktlgz8&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
+![profile](https://komarev.com/ghpvc/?username=obfuscating&style=flat-square&color=green)
+
 <h4>languages/things i know/use or have messed with</h4>
 <p>
   <img alt="C#" src="https://img.shields.io/badge/-C%23-9465CC?style=flat&logo=c&logoColor=white" />
