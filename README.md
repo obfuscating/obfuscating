@@ -22,6 +22,8 @@
   
   <img alt="Lua" src="https://img.shields.io/badge/-Lua-000080?style=flat&logo=lua&logoColor=white" />
   
+  <img alt="Haxe" src="https://img.shields.io/badge/-Haxe-F68712?style=flat&logo=haxe&logoColor=white" />
+  
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
   
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
