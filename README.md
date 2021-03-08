@@ -53,21 +53,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obfuscating&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
+<h3>started developing in 2013 from self-learning and tutorials/source codes</h3>
+<h4>there's nothing wrong with "skidding" as long as you learn from it</h4>
+
 <!--<a href="https://github.com/obfuscating">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obfuscating&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </>
 <a href="https://github.com/obfuscating">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=obfuscating&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffff00&bg_color=1d1f21" alt="obfuscating's GitHub Stats" />
 </a>-->
-
-<!-- ignore the old demo shit below -->
-<!--
-- 🔭 I’m currently working on a big project
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: contact@camm.club
-- 😄 Pronouns: they/them (i dont care)
-- ⚡ Fun fact:
--->
